@@ -1,15 +1,26 @@
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75151&center=true&vCenter=true&width=800&lines=⚠️+This+is+NOT+my+main+GitHub+account!;👨‍💻+Main:+https://github.com/BIKstl+👨‍💻;➡️+Click+the+link+below+to+visit+it..." alt="Banner" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/BIKstl" target="_blank">
+    <img src="https://avatars.githubusercontent.com/BIKstl" width="100" style="border-radius: 50%;" alt="BIKstl Avatar" />
+    <br />
+    👨‍💻 <strong>Visit My Main GitHub Profile</strong> 👨‍💻
+  </a>
+</p>
+
+---
+
+<pre>
 $ whoami
-➜ github secondary account
+➜ secondary account
 
-$ echo "This is NOT my main GitHub account."
-➜ If you're looking for my main profile, click the link below:
+$ echo "Main GitHub → https://github.com/BIKstl"
+</pre>
 
-👉 https://github.com/BIKstl 👈
+---
 
-$ cat about.txt
-📁 This account is used for experiments, testing, or side projects.
-🔗 Main contributions, open-source work, and active projects are on my main account.
-
-$ exit
-```
+<p align="cent

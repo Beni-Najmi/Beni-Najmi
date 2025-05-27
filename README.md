@@ -1,16 +1,15 @@
-## Hi there 👋
+```
+$ whoami
+➜ github secondary account
 
-<!--
-**Beni-Najmi/Beni-Najmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ echo "This is NOT my main GitHub account."
+➜ If you're looking for my main profile, click the link below:
 
-Here are some ideas to get you started:
+👉 https://github.com/BIKstl 👈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat about.txt
+📁 This account is used for experiments, testing, or side projects.
+🔗 Main contributions, open-source work, and active projects are on my main account.
+
+$ exit
+```
